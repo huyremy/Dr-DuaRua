@@ -1,6 +1,4 @@
 from turtle import * from random import randint
-  
-     
 # classic shape turtle
 speed(0)
 penup()
